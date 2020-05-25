@@ -1,0 +1,12 @@
+<!ELEMENT victimes (patient+)>
+<!ELEMENT patient (nom, age, symptomes)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT symptomesp EMPTY>
+<!ELEMENT symptomes (symptome+)>
+<!ELEMENT symptome (nom)>
+<!ELEMENT nomS #PCDATA>
+<!ATTLIST symptome id ID #REQUIRED>
+<!ATTLIST patient id ID #REQUIRED>
+<!ATTLIST symptomesp idS CDATA #REQUIRED
+			symptome IDREF #REQUIRED>

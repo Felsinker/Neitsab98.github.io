@@ -1,0 +1,72 @@
+body
+   {
+      background-color:#000000;
+      font-familly:'Titilium web',sans-serif;
+   }
+#container
+   {  background-color:#ffffff;
+      border : 0.1em solid black;
+      width  : 60em;
+      height : 176em;
+      position:absolute;
+      right:28%;
+   }
+#contient-morgue
+    {
+      position:absolute;
+      top:2em;
+      left:8%;
+    }
+#contient-psycho
+    {
+      position:absolute;
+      top:45em;
+      left:8%;
+    }
+#contient-ua
+	  {
+	    position:absolute;
+	    top:45em;
+	    left:8%;
+	  }
+#contient-ur
+	  {
+	    position:absolute;
+	    top:88em;
+	    left:8%;
+	  }
+
+    .relative {
+        position: relative
+    }
+
+    #container_camions {
+        top: 1em;
+        left: 1em;
+        background-color: green;
+        width: 15em;
+        padding: 1em;
+    }
+
+    #container_helicos {
+        margin-right: 20%;
+        border: 1px solid #000000;
+        padding: 1em;
+    }
+
+    #rectangle_camion {
+        width : 100px;
+        height : 50px;
+        background-color : white;
+        border : 1px solid;
+        border-color : black;
+    }
+
+    #cercle_helico {
+        width : 75px;
+        height : 75px;
+        background-color : white;
+        border : 2px solid;
+        border-radius : 50%;
+        border-color : black;
+    }

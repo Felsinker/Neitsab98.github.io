@@ -1,0 +1,15 @@
+#panneauActions{
+  height: 85vh;
+  width: 10vw;
+  background-color: blue;
+}
+
+#panneauActions a, #bandeau a{
+  display: block;
+}
+
+#bandeau{
+  height: 13vh;
+  width: 99vw;
+  background-color: yellow;
+}

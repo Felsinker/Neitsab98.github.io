@@ -1,0 +1,77 @@
+input{
+    width: auto;
+    margin: auto;
+}
+
+h5{
+    margin: auto;
+    text-align: center;
+}
+
+td, th, tr, thead{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+.lit{
+    background-color: lightgray;
+    width: 80px;
+    height: 160px;
+}
+.patient{
+    position: absolute;
+    bottom: 0%;
+    left: 20%;
+    display: none;
+    background-color: lightgray;
+    width: 300px;
+    margin: auto;
+}
+
+#elt{
+  background-color: #ffffff;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 25%;
+}
+
+#vue_tri{
+  background-color: #ffffff;
+  width: 33em;
+  height: 22vh;
+  position: absolute;
+}
+
+#lit1{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+
+#lit2{
+    position: absolute;
+    top: 10%;
+    right: 25%;
+}
+
+#desc_patient{
+    margin: auto;
+}
+
+#tab_sympt{
+    margin: auto;
+    border-style: solid;
+    border-width: thin;
+    border-color: red;
+}
+
+#btn-valider{
+    margin: auto;
+    float: none;
+}

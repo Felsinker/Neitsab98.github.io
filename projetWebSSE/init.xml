@@ -1,0 +1,225 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+
+<victimes>
+	<patient id="patient1">
+		<nom>Antoine</nom>
+		<age>23</age>
+		<symptomespp idS="M"></symptomespp>
+	</patient>
+	<patient id="patient2">
+		<nom>Axel</nom>
+		<age>21</age>
+		<symptomespp idS="M"></symptomespp>
+	</patient>
+	<patient id="patient3">
+		<nom>Etienne</nom>
+		<age>21</age>
+		<symptomespp idS="M"></symptomespp>
+	</patient>
+	<patient id="patient4">
+		<nom>Clement</nom>
+		<age>21</age>
+		<symptomespp idS="M"></symptomespp>
+	</patient>
+	<patient id="patient5">
+		<nom>Philemon</nom>
+		<age>43</age>
+		<symptomespp idS="M"></symptomespp>
+	</patient>
+	<patient id="patient6">
+		<nom>Samuel</nom>
+		<age>36</age>
+		<symptomespp idS="LC LA LD"></symptomespp>
+	</patient>
+	<patient id="patient7">
+		<nom>Antoine</nom>
+		<age>27</age>
+		<symptomespp idS="LD LB LJ"></symptomespp>
+	</patient>
+	<patient id="patient8">
+		<nom>Lucien</nom>
+		<age>51</age>
+		<symptomespp idS="LJ LC"></symptomespp>
+	</patient>
+	<patient id="patient9">
+		<nom>Margaux</nom>
+		<age>19</age>
+		<symptomespp idS="LA LC LB"></symptomespp>
+	</patient>
+	<patient id="patient10">
+		<nom>Emma</nom>
+		<age>45</age>
+		<symptomesp idS="LC LD"></symptomesp>
+	</patient>
+	<patient id="patient11">
+		<nom>Bonny</nom>
+		<age>20</age>
+		<symptomesp idS="LC LB LJ"></symptomesp>
+	</patient>
+	<patient id="patient12">
+		<nom>Julien</nom>
+		<age>34</age>
+		<symptomesp idS="LD LA LB"></symptomesp>
+	</patient>
+	<patient id="patient13">
+		<nom>Abdul</nom>
+		<age>61</age>
+		<symptomesp idS="LC LA"></symptomesp>
+	</patient>
+	<patient id="patient14">
+		<nom>Joseph</nom>
+		<age>54</age>
+		<symptomesp idS="LD"></symptomesp>
+	</patient>
+	<patient id="patient15">
+		<nom>Lelouch</nom>
+		<age>32</age>
+		<symptomesp idS="LB"></symptomesp>
+	</patient>
+	<patient id="patient16">
+		<nom>Akito</nom>
+		<age>42</age>
+		<symptomesp idS="LA"></symptomesp>
+	</patient>
+	<patient id="patient17">
+		<nom>Suzaku</nom>
+		<age>24</age>
+		<symptomesp idS="LJ"></symptomesp>
+	</patient>
+	<patient id="patient18">
+		<nom>Lena</nom>
+		<age>43</age>
+		<symptomesp idS="LD"></symptomesp>
+	</patient>
+	<patient id="patient19">
+		<nom>Marie</nom>
+		<age>25</age>
+		<symptomesp idS="LA"></symptomesp>
+	</patient>
+	<patient id="patient20">
+		<nom>Noémie</nom>
+		<age>46</age>
+		<symptomesp idS="LC"></symptomesp>
+	</patient>
+	<patient id="patient21">
+		<nom>Hélory</nom>
+		<age>56</age>
+		<symptomesp idS="LB"></symptomesp>
+	</patient>
+	<patient id="patient22">
+		<nom>Antony</nom>
+		<age>32</age>
+		<symptomesp idS="LJ"></symptomesp>
+	</patient>
+	<patient id="patient23">
+		<nom>Lise</nom>
+		<age>23</age>
+		<symptomesp idS="LA"></symptomesp>
+	</patient>
+	<patient id="patient24">
+		<nom>Lucas</nom>
+		<age>61</age>
+		<symptomesp idS="LB"></symptomesp>
+	</patient>
+	<patient id="patient25">
+		<nom>Bastien</nom>
+		<age>25</age>
+		<symptomesp idS="LD"></symptomesp>
+	</patient>
+	<patient id="patient26">
+		<nom>Mamad</nom>
+		<age>54</age>
+		<symptomesp idS="LJ"></symptomesp>
+	</patient>
+	<patient id="patient27">
+		<nom>Mathieu</nom>
+		<age>53</age>
+		<symptomesp idS="LA"></symptomesp>
+	</patient>
+	<patient id="patient28">
+		<nom>Solène</nom>
+		<age>29</age>
+		<symptomesp idS="LC"></symptomesp>
+	</patient>
+	<patient id="patient29">
+		<nom>Jari</nom>
+		<age>46</age>
+		<symptomesp idS="LA"></symptomesp>
+	</patient>
+	<patient id="patient30">
+		<nom>Jukka</nom>
+		<age>31</age>
+		<symptomesp idS="LC"></symptomesp>
+	</patient>
+	<patient id="patient31">
+		<nom>Teemu</nom>
+		<age>41</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient32">
+		<nom>Kai</nom>
+		<age>27</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient33">
+		<nom>Naruto</nom>
+		<age>19</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient34">
+		<nom>Sasuke</nom>
+		<age>23</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient35">
+		<nom>Giselle</nom>
+		<age>62</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient36">
+		<nom>Jean-Luc</nom>
+		<age>59</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient37">
+		<nom>Eren</nom>
+		<age>26</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient38">
+		<nom>Mikasa</nom>
+		<age>32</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient39">
+		<nom>Armin</nom>
+		<age>24</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+	<patient id="patient40">
+		<nom>Charles</nom>
+		<age>58</age>
+		<symptomesp idS=""></symptomesp>
+	</patient>
+</victimes>
+
+<symptomes>
+	<symptome id="LC">
+	<nomS>Lesion au crâne</nomS>
+	<symptome>
+	<symptome id="LA">
+	<nomS>Lesion à l'abdomen</nomS>
+	<symptome>
+	<symptome id="LB">
+	<nomS>Lesion au bras</nomS>
+	<symptome>
+	<symptome id="LJ">
+	<nomS>Lesion aux jambes</nomS>
+	<symptome>
+	<symptome id="LD">
+	<nomS>Lesion au dos</nomS>
+	<symptome>
+	<symptome id="M">
+	<nomS>La mort</nomS>
+	<symptome>
+</symptomes>
